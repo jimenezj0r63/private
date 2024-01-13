@@ -43,7 +43,7 @@ export const filterableData = [
     },
     {
         name: "Sophia Deluxe",
-        src: "/src/data/images/replicate-prediction-u6cwvubblf5iokb2chuomq7vbu(1).png",
+        src: "https://firebasestorage.googleapis.com/v0/b/imagenes-a6a16.appspot.com/o/web%2Freplicate-prediction-u6cwvubblf5iokb2chuomq7vbu(1).png?alt=media&token=114c99bc-7120-4181-a8e3-b93e7b7d054e",
         title: "Sophia Deluxe",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
