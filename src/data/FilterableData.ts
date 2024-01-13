@@ -1,7 +1,7 @@
 export const filterableData = [
     {
         name: "Sophia Deluxe",
-        src: "/src/data/images/replicate-prediction-u6cwvubblf5iokb2chuomq7vbu(1).png",
+        src: "https://firebasestorage.googleapis.com/v0/b/imagenes-a6a16.appspot.com/o/replicate-prediction-fdyppvzbkwe2exalig5ybjpqim.png?alt=media&token=b21277c7-5f41-4fe3-9b11-f9ab317cdbaa",
         title: "Sophia Deluxe",
         text: "Sophia deluxe in big dick."
     },
