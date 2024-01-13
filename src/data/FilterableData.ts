@@ -13,7 +13,7 @@ export const filterableData = [
     },
     {
         name: "people",
-        src: "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg?auto=compress&cs=tinysrgb&w=800",
+        src: "https://firebasestorage.googleapis.com/v0/b/imagenes-a6a16.appspot.com/o/web%2Freplicate-prediction-ablcxzrbrr4eahjbff5xi7fanq(1).png?alt=media&token=5dac237f-4d27-4780-ad76-e3708b021759",
         title: "Modeller",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
