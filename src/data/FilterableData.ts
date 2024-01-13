@@ -85,13 +85,13 @@ export const filterableData = [
     },
     {
         name: "Sophia Deluxe",
-        src: "/src/data/images/kendra.png",
+        src: "https://firebasestorage.googleapis.com/v0/b/imagenes-a6a16.appspot.com/o/web%2Freplicate-prediction-stks3ojb6zc7lq56lx77ctvqhe(1).png?alt=media&token=f4b5ea4a-2043-429f-8ad6-6b7936b540f1",
         title: "Sophia Deluxe",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
         name: "Porn",
-        src: "/src/data/images/replicate-prediction-stks3ojb6zc7lq56lx77ctvqhe.png",
+        src: "https://firebasestorage.googleapis.com/v0/b/imagenes-a6a16.appspot.com/o/web%2Freplicate-prediction-ablcxzrbrr4eahjbff5xi7fanq(1).png?alt=media&token=5dac237f-4d27-4780-ad76-e3708b021759",
         title: "Sophia Deluxe",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
