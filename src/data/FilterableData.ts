@@ -7,7 +7,7 @@ export const filterableData = [
     },
     {
         name: "Sophia Deluxe",
-        src: "/src/data/images/replicate-prediction-stks3ojb6zc7lq56lx77ctvqhe(1).png",
+        src: "https://firebasestorage.googleapis.com/v0/b/imagenes-a6a16.appspot.com/o/replicate-prediction-it6hmvrbcufqhpfltqkbllx2b4.png?alt=media&token=fcc9240e-ae78-43a8-b59d-120547cbbde4",
         title: "Porn",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
