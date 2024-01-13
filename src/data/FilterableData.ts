@@ -55,7 +55,7 @@ export const filterableData = [
     },
     {
         name: "Sophia Deluxe",
-        src: "",
+        src: "https://firebasestorage.googleapis.com/v0/b/imagenes-a6a16.appspot.com/o/web%2Fkendra.png?alt=media&token=51dcfe90-9755-4e74-8f46-8c6e9d55d22c",
         title: "Sophia Deluxe",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
