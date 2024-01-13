@@ -31,13 +31,13 @@ export const filterableData = [
     },
     {
         name: "people",
-        src: "https://images.pexels.com/photos/432059/pexels-photo-432059.jpeg?auto=compress&cs=tinysrgb&w=800",
+        src: "https://firebasestorage.googleapis.com/v0/b/imagenes-a6a16.appspot.com/o/replicate-prediction-n5f2gobb4yincuapm24d7vscay.png?alt=media&token=eddfb12b-08e8-4809-8bf7-b3e48d6b7198",
         title: "Artist",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
         name: "Sophia Deluxe",
-        src: "/src/data/images/replicate-prediction-stks3ojb6zc7lq56lx77ctvqhe(1).png",
+        src: "https://firebasestorage.googleapis.com/v0/b/imagenes-a6a16.appspot.com/o/replicate-prediction-tjzmlvzbcfvlrvevihjm6czdke%20(1).png?alt=media&token=874ea822-e4a5-4312-9230-57bb19ca6b66",
         title: "Forest",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
